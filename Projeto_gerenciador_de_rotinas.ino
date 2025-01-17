@@ -13,7 +13,7 @@
 const char* ssid = "CABO_5C06_2G";
 const char* password ="zSJ58Tka5d";
 
-const char* BOT_TOKEN = "7777732899:AAGASPYyNohbwFYPeHyEaGTm7zhG57oQDkY";
+const char* BOT_TOKEN = TELEGRAM_TOKEN;
 const String CHAT_ID = "6697203230";  
 
 WiFiClientSecure clientSecure;
